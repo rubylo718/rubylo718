@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Ruby Lo.
+### Hi there 👋 I'm Ruby Lo (Wan-tzu).
 - 💡 I'm currently working in a medical device manufacturing company as a material analysis engineer based in Taiwan.  
-- 😎 I'm learing web development skills, including HTML, CSS, Javascript, at ALPHA Camp (since January 2022).  
+- 😎 I'm learing web development skills, including HTML, CSS, Javascript at ALPHA Camp (since January 2022).  
 - 😁 I aim to be a backend engieer to switch my career to web development or digital industries.
 - 😉 Python is my first language of coding. I also like it because I think it's elegant and very similar to human language.  
 - 📫 You can reach me by email: rubylo718@gmail.com. 
