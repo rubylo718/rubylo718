@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Wan-tzu (Ruby) Lo.
 
 ### About Me
-- 💡 I'm based in Taipei and looking for an entry-level backend/fullstack engineering position.
+- 💡 I'm based in Taipei and looking for an entry-level backend / fullstack engineering position.
 - 😎 I completed [ALPHA Camp](https://tw.alphacamp.co/) web development bootcamp in 2022, specialized in back-end (Node.js).
-- 🌱 I am currently learning React.js and TypeScript to further develop my skills.
-- 😉 Python is my first language of coding. I also like it because I think it's elegant and very similar to human language.
+- 🌱 I am currently learning React and TypeScript to further develop my skills.
+- 😉 Python is my first coding language. I also like it because I think it's elegant and very similar to human language.
 - 📒 Here is my [blog](https://rubylo718.github.io/) about my code learning. Fell free to take a look.
 
 ### Portfolio
