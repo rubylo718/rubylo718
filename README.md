@@ -7,7 +7,15 @@
 - 😉 Python is my first language of coding. I also like it because I think it's elegant and very similar to human language.
 - 📒 Here is my [blog](https://rubylo718.github.io/) about my code learning. Fell free to take a look.
 
-### Tech Stack
+### Portfolio
+| Project Name | Readme | Main Tech Stack |
+|-|-|-|
+| Finance Tracker <br> (Under construction) | [Frontend](https://github.com/rubylo718/finance-tracker-client#readme) <br> [Backend](https://github.com/rubylo718/finance-tracker-server#readme) | - Frontend: React, Next.js, Bootstrap <br> - Backend: Node.js, Express, Passport <br> - Database: MongoDB <br> - API docs: Swagger |
+| JavaScript 網頁爬蟲小工具 | [currency-crawler](https://github.com/rubylo718/currency-crawler#readme) | - Server: Node.js, Express, Selenium-webdriver <br> - Data storage: Google Sheet via googleapis |
+| Simple Twitter | [Simple Twitter API](https://github.com/ritachien/twitter-api-2022#readme) | - Backend: Node.js, Express, Passport <br> - Database: MySQL <br> A collaborative project with peers from ALPHA Camp with Github PR flow, code review, and issue tracking.|
+| Expense Tracker | [expense-tracker](https://github.com/rubylo718/ac-expense-tracker#readme) | - Fullstack: Node.js, Express, Handlebars, Bootstrap, Passport <br> - Database: MongoDB |
+
+### Skills
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -20,11 +28,11 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="36 height="36" alt="Github" /></a>
-<a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="36 height="36" alt="Docker" /></a>
-<a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="36 height="36" alt="AWS" /></a>
+<a href="https://github.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="36 height="36" alt="Github" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.docker.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="36 height="36" alt="Docker" /></a>
+<a href="https://aws.amazon.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="36 height="36" alt="AWS" /></a>
 </p>
 
 ### Contact Me 😄
