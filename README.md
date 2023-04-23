@@ -12,7 +12,7 @@
 |-|-|-|
 | Finance Tracker <br> (Under construction) | [Frontend](https://github.com/rubylo718/finance-tracker-client#readme) <br> [Backend](https://github.com/rubylo718/finance-tracker-server#readme) | - Frontend: React, Next.js, Bootstrap <br> - Backend: Node.js, Express, Passport <br> - Database: MongoDB <br> - API docs: Swagger |
 | JavaScript 網頁爬蟲小工具 | [currency-crawler](https://github.com/rubylo718/currency-crawler#readme) | - Server: Node.js, Express, Selenium-webdriver <br> - Data storage: Google Sheet via googleapis |
-| Simple Twitter | [Simple Twitter API](https://github.com/ritachien/twitter-api-2022#readme) | - Backend: Node.js, Express, Passport <br> - Database: MySQL <br> A collaborative project with peers from ALPHA Camp with Github PR flow, code review, and issue tracking.|
+| Simple Twitter | [Simple Twitter API](https://github.com/ritachien/twitter-api-2022#readme) | - Backend: Node.js, Express, Passport <br> - Database: MySQL <br> *A collaborative project with peers from ALPHA Camp with Github PR flow, code review, and issue tracking.*|
 | Expense Tracker | [expense-tracker](https://github.com/rubylo718/ac-expense-tracker#readme) | - Fullstack: Node.js, Express, Handlebars, Bootstrap, Passport <br> - Database: MongoDB |
 
 ### Skills
