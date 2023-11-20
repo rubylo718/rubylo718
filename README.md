@@ -1,19 +1,19 @@
 ## Hi there 👋 I'm Wan-tzu (Ruby) Lo.
 
 ### About Me
-- 💡 I'm based in Taipei and looking for an entry-level backend / fullstack engineering position.
+- 💡 I'm based in Taipei and looking for an entry-level front-end / fullstack engineering position.
 - 😎 I completed [ALPHA Camp](https://tw.alphacamp.co/) web development bootcamp in 2022, specialized in back-end (Node.js).
 - 🌱 I am currently learning React and TypeScript to further develop my skills.
-- 😉 Python is my first coding language. I also like it because I think it's elegant and very similar to human language.
-- 📒 Here is my [blog](https://rubylo718.github.io/) about my code learning. Fell free to take a look.
+- 📫 You can reach me by e-mail: `rubylo718@gmail.com` or visit my [LinkedIn Profile](https://www.linkedin.com/in/wan-tzu-lo/).
 
 ### Portfolio
 | Project Name | Readme | Main Tech Stack |
 |-|-|-|
-| Finance Tracker <br> (Under construction) | [Frontend](https://github.com/rubylo718/finance-tracker-client#readme) <br> [Backend](https://github.com/rubylo718/finance-tracker-server#readme) | - Frontend: React, Next.js, Bootstrap <br> - Backend: Node.js, Express, Passport <br> - Database: MongoDB <br> - API docs: Swagger |
+| 安心小農 <br> e-commerce platform | [farm-ec-react](https://github.com/rubylo718/farm-ec-react#readme)| React |
 | JavaScript 網頁爬蟲小工具 | [currency-crawler](https://github.com/rubylo718/currency-crawler#readme) | - Server: Node.js, Express, Selenium-webdriver <br> - Data storage: Google Sheet via googleapis |
 | Simple Twitter | [Simple Twitter API](https://github.com/ritachien/twitter-api-2022#readme) | - Backend: Node.js, Express, Passport <br> - Database: MySQL <br> *A collaborative project with peers from ALPHA Camp with Github PR flow, code review, and issue tracking.*|
 | Expense Tracker | [expense-tracker](https://github.com/rubylo718/ac-expense-tracker#readme) | - Fullstack: Node.js, Express, Handlebars, Bootstrap, Passport <br> - Database: MongoDB |
+| Finance Tracker <br> (Under construction) | [Frontend](https://github.com/rubylo718/finance-tracker-client#readme) <br> [Backend](https://github.com/rubylo718/finance-tracker-server#readme) | - Frontend: React, Next.js, Bootstrap <br> - Backend: Node.js, Express, Passport <br> - Database: MongoDB <br> - API docs: Swagger |
 
 ### Skills
 <p align="left"> 
@@ -34,10 +34,6 @@
 <a href="https://www.docker.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="36 height="36" alt="Docker" /></a>
 <a href="https://aws.amazon.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="36 height="36" alt="AWS" /></a>
 </p>
-
-### Contact Me 😄
-- [LinkedIn Profile](https://www.linkedin.com/in/wan-tzu-lo/)
-- Email: rubylo718@gmail.com
 
 <!--
 **rubylo718/rubylo718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
